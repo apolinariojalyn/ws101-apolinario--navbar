@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ws101-apolinario-navbar/static/css/main.1330eb2a.css",
+    "main.js": "/ws101-apolinario-navbar/static/js/main.3f1672c3.js",
+    "index.html": "/ws101-apolinario-navbar/index.html",
+    "main.1330eb2a.css.map": "/ws101-apolinario-navbar/static/css/main.1330eb2a.css.map",
+    "main.3f1672c3.js.map": "/ws101-apolinario-navbar/static/js/main.3f1672c3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1330eb2a.css",
+    "static/js/main.3f1672c3.js"
+  ]
+}
